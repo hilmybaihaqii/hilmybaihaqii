@@ -36,11 +36,10 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai:
 
 ---
 
-## 📈 Statistik GitHub Saya
+## 📈 Statistik GitHub
 
-Ini akan menampilkan statistik menarik dari aktivitas GitHub Anda. Anda bisa menggunakan GitHub Stats Card.
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-```markdown
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmybaihaqii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=dark)](https://git.io/streak-stats)
