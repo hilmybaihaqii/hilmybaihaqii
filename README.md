@@ -43,6 +43,3 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilmybaihaqii&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hilmybaihaqii&theme=dark)](https://github.com/YOUR_USERNAME)
-
-🐍 Kontribusi Ular Saya
-Lihat bagaimana kontribusi saya membentuk jalur ular yang menarik di sini
