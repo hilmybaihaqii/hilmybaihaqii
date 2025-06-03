@@ -1,16 +1,46 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**hilmybaihaqii/hilmybaihaqii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👋 Halo! Saya Hilmy Baihaqi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Seorang Mahasiswa S1 yang bersemangat dalam bidang webdev dan Machine Learning . Saya suka memecahkan masalah kompleks dan belajar hal-hal baru!
+
+---
+
+## 🚀 Keahlian Saya
+
+Berikut adalah beberapa teknologi dan alat yang saya kuasai:
+
+**Bahasa Pemrograman:**
+* Html
+* CSS
+* JavaScript
+* Phyton
+* C
+
+**Frameworks & Libraries:**
+* React
+* Node.js
+* Next.js
+
+
+
+
+**Database:**
+* MySQL
+
+**Tools & Platform:**
+* Git/GitHub
+* Linux
+
+---
+
+## 📈 Statistik GitHub Saya
+
+Ini akan menampilkan statistik menarik dari aktivitas GitHub Anda. Anda bisa menggunakan GitHub Stats Card.
+
+```markdown
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
