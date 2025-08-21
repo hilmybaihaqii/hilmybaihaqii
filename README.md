@@ -1,18 +1,21 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" />
+<img src="https/media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" />
 
-# Hi there, I'm Hilmy Baihaqi! 👋
+# Hey there, I'm Hilmy! 👋
+
+### A curious student & tech tinkerer from Bandung, Indonesia 🇮🇩
+
 </div>
 
 <p align="center">
-You can call me Hilmy,
-I'm currently navigating my 5th semester at Telkom University. I'm just a super curious person who loves to tinker with all things tech. Whether it's building a cool website or just messing around with a mobile app, I believe the most important part is to have fun while learning!
+You can call me Hilmy. <br>
+I'm currently navigating my 5th semester at <b>Telkom University</b>. I'm just a super curious person who loves to tinker with all things tech. Whether it's building a cool website or just messing around with a mobile app, I believe the most important part is to have fun while learning!
 </p>
 
 ---
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="center">🤙 Let's Connect!</h3>
 
 <p align="center">
   <a href="https://myys.vercel.app/" target="_blank">
@@ -34,7 +37,7 @@ I'm currently navigating my 5th semester at Telkom University. I'm just a super 
 
 ---
 
-<h3 align="center">My Tech Arsenal</h3>
+<h3 align="center">🛠️ My Tech Arsenal</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -62,10 +65,10 @@ I'm currently navigating my 5th semester at Telkom University. I'm just a super 
 
 ---
 
-<h3 align="center">My GitHub Footprint</h3>
+<h3 align="center">📊 My GitHub Footprint</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-pacman.svg" alt="Hilmy's GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-dark.svg" alt="Hilmy's GitHub Activity Graph" />
 </p>
 
 <p align="center">
