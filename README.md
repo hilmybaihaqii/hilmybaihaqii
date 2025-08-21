@@ -2,32 +2,50 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hai 👋, perkenalkan saya [Nama Lengkap Anda]</h1>
-<h3 align="center">Seorang [Jabatan Anda, misal: Full-Stack Developer / Mahasiswa Teknik Informatika]</h3>
+<h1 align="center">Hi there 👋, I'm Hilmy Baihaqi</h1>
+<h3 align="center">A Passionate Full-Stack Developer from Indonesia</h3>
 
 <p align="center">
-  Saya seorang developer yang antusias dalam membuat aplikasi web dan mobile yang modern. Saat ini saya fokus pada ekosistem JavaScript, mulai dari front-end dengan Next.js hingga back-end dengan Node.js. Saya senang belajar hal baru dan berkolaborasi dalam proyek yang menantang.
+  I'm an enthusiastic developer focused on building modern and intuitive web & mobile applications. I thrive in the JavaScript ecosystem, from creating beautiful front-ends with Next.js and React to building robust back-ends with Node.js. I love learning new technologies and collaborating on challenging projects.
 </p>
 
 <p align="left">
-- 🌱 Saat ini saya sedang mendalami **[Sesuatu yang sedang Anda pelajari, misal: AI atau Web3]**
+- 🌱 I’m currently learning **[Something you are learning, e.g., Web3 or Golang]**
 
-- 💬 Tanya saya tentang **React, Next.js, Node.js, atau TypeScript**
+- 💬 Ask me about **React, Next.js, Node.js, and TypeScript**
 
-- 📫 Cara menghubungi saya: **[Alamat email Anda]**
+- 📫 How to reach me: **[Your Email Address]**
 
-- ⚡ Fakta menarik: **[Fakta unik tentang Anda, misal: Saya suka bermain catur]**
+- ⚡ Fun fact: **[A fun fact about you, e.g., I can solve a Rubik's cube in under a minute]**
 </p>
 
 ---
 
-<h3 align="left">Bahasa dan Tools yang Saya Kuasai:</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/[your-linkedin-username]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/[your-instagram-username]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/[your-twitter-username]" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -56,8 +74,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
@@ -66,24 +84,14 @@
 
 ---
 
-<h3 align="left">Statistik GitHub Saya:</h3>
+<h3 align="center">My GitHub Stats & Activity</h3>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&locale=id&theme=radical&rank_icon=github" alt="hilmybaihaqii's GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&show_icons=true&locale=id&layout=compact&theme=radical" alt="hilmybaihaqii's Top Languages" />
+  <img src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-pacman.svg" alt="Hilmy's GitHub Activity Graph" />
 </p>
 
----
-
-<h3 align="left">Hubungi Saya:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/[username_linkedin_anda]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/[username_instagram_anda]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram Profile" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/[username_twitter_anda]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter Profile" height="30" width="40" />
-  </a>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=radical&rank_icon=github" alt="hilmybaihaqii's GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&show_icons=true&layout=compact&theme=radical" alt="hilmybaihaqii's Top Languages" />
 </p>
