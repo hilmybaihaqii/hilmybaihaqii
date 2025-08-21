@@ -4,13 +4,8 @@
 
 # Hey there, I'm Hilmy! 👋
 
-### A curious student & tech tinkerer from Bandung, Indonesia 🇮🇩
-
-</div>
-
 <p align="center">
-You can call me Hilmy. <br>
-I'm currently navigating my 5th semester at <b>Telkom University</b>. I'm just a super curious person who loves to tinker with all things tech. Whether it's building a cool website or just messing around with a mobile app, I believe the most important part is to have fun while learning!
+You can call me Hilmy, I'm currently navigating my 5th semester at <b>Telkom University. I'm just a super curious person who loves to tinker with all things tech. Whether it's building a cool website or just messing around with a mobile app, I believe the most important part is to have fun while learning!
 </p>
 
 ---
