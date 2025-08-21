@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M 50 50 L 50 0 A 50 50 0 0 1 93.3 25 Z" fill="#FFD700"/>
+  <path d="M 50 50 L 93.3 25 A 50 50 0 0 1 93.3 75 Z" fill="#FFD700"/>
+  <path d="M 50 50 L 93.3 75 A 50 50 0 0 1 50 100 Z" fill="#FFD700"/>
+  <path d="M 50 50 L 50 100 A 50 50 0 0 1 6.7 75 Z" fill="#FFD700"/>
+  <path d="M 50 50 L 6.7 75 A 50 50 0 0 1 6.7 25 Z" fill="#FFD700"/>
+</svg>

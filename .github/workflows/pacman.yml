@@ -1,4 +1,4 @@
-name: Generate Pac-Man Snake
+name: Generate Pacman Animation
 
 on:
   schedule:
@@ -7,23 +7,24 @@ on:
 
 jobs:
   build:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Generate Pac-Man Snake Animation
-        uses: Platane/snk@v3
-        id: snake-gif
+      - uses: Platane/snk@v3
+        id: pacman-gif
         with:
           github_user_name: hilmybaihaqii
-          svg_out_path: dist/github-contribution-grid-snake-pacman.svg
-          outputs: |
-            dist/github-contribution-grid-snake-pacman.svg?palette=github-dark
+          
+          snake_svg_path: pacman.svg  # Ubah ke pacman.svg
 
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          outputs: |
+            dist/github-contribution-grid-pacman.svg
+            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
