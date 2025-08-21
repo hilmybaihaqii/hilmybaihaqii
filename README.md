@@ -15,7 +15,7 @@ I'm currently navigating my 5th semester at <b>Telkom University</b>. I'm just a
 
 ---
 
-<h3 align="center">🤙 Let's Connect!</h3>
+<h3 align="center">Let's Connect!</h3>
 
 <p align="center">
   <a href="https://myys.vercel.app/" target="_blank">
@@ -37,7 +37,7 @@ I'm currently navigating my 5th semester at <b>Telkom University</b>. I'm just a
 
 ---
 
-<h3 align="center">🛠️ My Tech Arsenal</h3>
+<h3 align="center">My Tech Arsenal</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -65,7 +65,7 @@ I'm currently navigating my 5th semester at <b>Telkom University</b>. I'm just a
 
 ---
 
-<h3 align="center">📊 My GitHub Footprint</h3>
+<h3 align="center">My GitHub Footprint</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-dark.svg" alt="Hilmy's GitHub Activity Graph" />
