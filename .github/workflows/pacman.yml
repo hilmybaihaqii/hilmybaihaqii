@@ -1,30 +1,44 @@
-name: Generate Pacman Animation
+# Nama workflow yang akan muncul di tab Actions
+name: Generate Pac-Man Animation
 
+# Pemicu: berjalan otomatis setiap 12 jam, atau bisa dijalankan manual
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+# Pekerjaan yang harus dilakukan
 jobs:
   build:
+    # Izin agar action bisa menulis hasil ke repositori
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
+    # Menjalankan di sistem operasi Ubuntu versi terbaru
+    runs-on: ubuntu-latest
+
+    # Langkah-langkah yang dijalankan
+    steps:
+      # 1. Mengunduh kode repositori agar bisa membaca file pacman.svg
+      - uses: actions/checkout@v4
+
+      # 2. Menjalankan action untuk membuat animasi
       - uses: Platane/snk@v3
-        id: pacman-gif
+        id: snake-gif
         with:
+          # Username GitHub Anda
           github_user_name: hilmybaihaqii
           
-          snake_svg_path: pacman.svg  # Ubah ke pacman.svg
+          # PENTING: Memberitahu action untuk menggunakan gambar pacman.svg
+          snake_svg_path: pacman.svg
 
+          # File output yang akan dihasilkan
           outputs: |
-            dist/github-contribution-grid-pacman.svg
-            dist/github-contribution-grid-pacman-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 3. Mendorong file hasil animasi ke branch 'output'
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
