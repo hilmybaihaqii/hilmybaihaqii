@@ -1,0 +1,37 @@
+# Nama workflow GitHub Action
+name: Generate Snake Animation
+
+# Pengaturan kapan workflow ini akan berjalan
+on:
+  # Berjalan otomatis setiap 12 jam
+  schedule:
+    - cron: "0 */12 * * *"
+  # Memungkinkan Anda menjalankan workflow ini secara manual dari tab "Actions"
+  workflow_dispatch:
+
+# Pekerjaan yang akan dilakukan
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Membuat animasi ular dari kontribusi GitHub Anda
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          # Ganti dengan username GitHub Anda
+          github_user_name: hilmybaihaqii
+          
+          # Tentukan file output SVG
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+      # Mendorong file SVG yang sudah dibuat ke branch 'output'
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
