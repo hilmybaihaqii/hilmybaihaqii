@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https/media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif" width="300" />
 
 # Hey there, I'm Hilmy! 👋
 
@@ -37,7 +37,7 @@ I'm currently navigating my 5th semester at <b>Telkom University</b>. I'm just a
 
 ---
 
-<h3 align="center">My Tech Arsenal</h3>
+<h3 align="center"> My Tech Arsenal</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
