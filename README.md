@@ -37,17 +37,6 @@
 
 ---
 
-## Highlight Projects  
-Here are some of my favorite works:
-
-| Project | Tech Stack | Link |
-|---------|------------|------|
-| Portfolio Website | Next.js, Tailwind, Vercel | [Live Demo](https://myys.vercel.app/) |
-| Mobile App Experiment | React Native, Supabase | Coming Soon |
-| Mini Games with JS | HTML, CSS, JavaScript | [GitHub Repo](https://github.com/hilmybaihaqii) |
-
----
-
 ## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=radical&hide_border=false" height="165"/>
