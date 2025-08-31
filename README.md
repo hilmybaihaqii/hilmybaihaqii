@@ -12,9 +12,7 @@
 
 ## About Me  
 - Currently in my **5th semester at Telkom University**  
-- Passionate about **Web & Mobile Development**  
 - Focused on building impactful and fun projects  
-- Exploring **Next.js**, **React Native**, and **Supabase**  
 - Always open to collaboration and learning new things  
 
 ---
