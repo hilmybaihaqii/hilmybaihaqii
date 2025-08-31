@@ -32,7 +32,7 @@
 
 ## Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,html,css,react,nextjs,tailwind,nodejs,express,mongodb,supabase,git,github,figma,canva,arduino,vscode,netlify&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,html,css,react,nextjs,tailwind,nodejs,express,mongodb,supabase,git,github,figma,arduino,vscode,netlify&perline=9" />
 </p>
 
 ---
