@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="(https://tenor.com/nDak7mCKY7w.gif)" width="200" />
+<img src="[https://tenor.com/nDak7mCKY7w.gif]" width="200" />
 
 # Hi, I'm Hilmy  
 
