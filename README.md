@@ -36,19 +36,19 @@
 
 ## GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=radical&hide_border=true" height="300" width="300" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=radical&hide_border=true" height="300" width="300" style="border: 5px solid #ff6347; border-radius: 10px;" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=radical&rank_icon=github&hide_title=true" height="300" width="300" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=radical&rank_icon=github&hide_title=true" height="300" width="300" style="border: 5px solid #ff6347; border-radius: 10px;" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=radical&hide_title=true" height="250" width="300" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=radical&hide_title=true" height="250" width="300" style="border: 5px solid #ff6347; border-radius: 10px;" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-dark.svg" width="80%" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-dark.svg" width="80%" style="border: 5px solid #ff6347; border-radius: 10px;" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
