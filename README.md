@@ -36,8 +36,7 @@
 
 ## GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=radical&hide_border=true" height="165" alt="Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=radical&rank_icon=github&hide_title=true" height="165" alt="GitHub Stats"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
