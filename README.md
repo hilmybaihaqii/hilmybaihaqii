@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif" width="140" alt="Hello Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif" width="130" alt="Pikachu Animation" />
   
   <br>
 
+  <!-- Menggunakan Font Figtree via Google Fonts API -->
   <a href="https://github.com/hilmybaihaqii">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hilmy+Baihaqi;Frontend+Engineer;UI%2FUX+Designer;Telecommunications+Undergraduate" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Figtree&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hilmy+Baihaqi;Frontend+Engineer;UI%2FUX+Designer;Telecommunications+Undergraduate" alt="Typing Animation" />
   </a>
 
   <br>
@@ -20,9 +21,9 @@
   <img src="https://komarev.com/ghpvc/?username=hilmybaihaqii&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-<br>
+<br><br>
 
 ## 👨‍💻 Professional Summary
 
@@ -31,24 +32,23 @@
 - 💻 **Core Competencies:** Frontend Development, UI/UX Design, Internet of Things (IoT) Architecture, and Web-based Data Visualization.
 - 🚀 **Current Focus:** Developing functional web applications integrated with hardware sensors and exploring predictive models using Machine Learning.
 
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-<br>
+<br><br>
 
-## ⚙️ Technologies & Tools
+## ⚙️ Technologies & Architecture
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,html,css,react,nextjs,tailwind,nodejs,express,mongodb,supabase,git,github,figma,arduino,vscode,netlify&perline=10&theme=dark" alt="Tech Stack"/>
 </div>
 
-<br>
+<br><br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-<br>
+<br><br>
 
-## 📊 Analytics & Activity
+## 📊 Analytics & Performance Dashboard
 
 <div align="center">
-  <!-- GitHub Activity Graph -->
   <a href="https://github.com/hilmybaihaqii">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hilmybaihaqii&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true&theme=react-dark" width="100%" alt="Activity Graph" />
   </a>
@@ -57,7 +57,6 @@
 <br>
 
 <div align="center">
-  <!-- GitHub Trophies (Optimized for faster loading) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=hilmybaihaqii&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
   </a>
@@ -65,23 +64,27 @@
 
 <br>
 
-<div align="center">
-  <!-- Stats & Top Languages (Cache Busted) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&icon_color=3B82F6&cache_seconds=1800&v=2.0" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&cache_seconds=1800&v=2.0" width="48%" alt="Top Languages"/>
-</div>
+<!-- Grid Layout untuk Statistik -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr style="border: none; background-color: transparent;">
+    <td align="center" style="border: none; background-color: transparent; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&icon_color=3B82F6&cache_seconds=1800&v=2.1" width="400" alt="GitHub Stats"/>
+    </td>
+    <td align="center" style="border: none; background-color: transparent; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&cache_seconds=1800&v=2.1" width="400" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <div align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=a6a6a6&v=2.0" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=a6a6a6&v=2.1" alt="Streak Stats"/>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
-  <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake.svg">
