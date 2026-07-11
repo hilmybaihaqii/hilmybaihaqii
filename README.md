@@ -1,11 +1,15 @@
 <div align="center">
-  
+
+  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" alt="Developer Animation" />
+
+  <br><br>
+
   <a href="https://github.com/hilmybaihaqii">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hilmy+Baihaqi+👋;Frontend+%26+UI%2FUX+Enthusiast;Telecommunications+Engineering+Student;Curiosity+drives+creation" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Hilmy+Baihaqi+👋;Frontend+%26+UI%2FUX+Enthusiast;Telecommunications+Engineering+Student;Curiosity+Drives+Creation" alt="Typing Animation" />
   </a>
 
   <p align="center">
-    Membangun solusi digital yang fungsional dan nyaman digunakan.
+    Bridging the gap between aesthetic design and functional engineering.
   </p>
 
   <p align="center">
@@ -17,71 +21,54 @@
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 👨‍💻 About Me
 
-- 🎓 Mahasiswa Teknik Telekomunikasi (Semester 6) di **Telkom University** (Kelas Internasional).
-- 🔬 **Research Assistant & Public Relations** di **Cyber Physical System (CPS) Laboratory**.
-- 💻 Fokus pada **Frontend Engineering** & **UI/UX Design**, dengan ketertarikan kuat pada *Machine Learning* dan *Internet of Things* (IoT).
-- 🚀 Saat ini sedang mengembangkan **Citra Banjir** (Sistem Peringatan Dini Banjir dengan Next.js) dan mempersiapkan *Capstone Project* untuk prediksi medis menggunakan *Stacking Ensemble Machine Learning*.
-- ⚙️ Menyongsong program *Infraship* di **PT Telkom Infrastruktur Indonesia** dengan fokus pada *Virtualization & SDN Operation*.
-- 🏃‍♂️ Hobi: Berlari 10km untuk menjaga keseimbangan dan kejernihan pikiran!
+I am a software engineer and designer with a deep appreciation for building seamless digital experiences. My background blends technical infrastructure with modern web development, allowing me to approach problems from both a system-level and user-centric perspective.
 
----
-
-## 🚀 Proyek Pilihan
-
-| Proyek | Peran / Deskripsi |
-| :--- | :--- |
-| **MIRA (Mastering Information Retention App)** | **UI/UX Design & Frontend Development.** Membangun ekosistem edukasi berbasis AI dengan antarmuka yang intuitif. |
-| **Citra Banjir** | **Frontend Engineer.** Mengembangkan sistem peringatan dini banjir untuk kawasan Bandung berkolaborasi dengan BBWS Citarum menggunakan Next.js. |
-| **AQUA** | **IoT & Web Developer.** Sistem deteksi dini banjir dan pemantauan tanah berbasis IoT (ESP32) yang terintegrasi dengan *web dashboard*. |
-| **D'MOUV** | *Smart Home Application* dengan desain antarmuka modern yang berfokus pada pengalaman pengguna. |
-
-> *Catatan: Proyek-proyek ini saya Directed bersama tim yang luar biasa.*
+- 🎓 **Academics:** 6th-semester Telecommunications Engineering student at **Telkom University** (International Class).
+- 🔬 **Research & Leadership:** Serving as a Research Assistant and Public Relations at the **Cyber Physical System (CPS) Laboratory**.
+- 💻 **Focus Areas:** Specializing in **Frontend Engineering** and **UI/UX Design**, with a strong, active interest in integrating **Machine Learning** and **Internet of Things (IoT)** into real-world applications.
+- 🌐 **Exploration:** Constantly researching next-generation network infrastructures, cloud integrations, and predictive data analysis.
+- 🏃‍♂️ **Off-Screen:** When I step away from the keyboard, I enjoy running 10k distances to maintain focus, discipline, and a clear mind.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <p><strong>Frontend, UI/UX & Design</strong></p>
+  <p><strong>Architecture, Frontend & Design</strong></p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma,canva&perline=9&theme=dark" alt="Frontend and Design"/>
   
   <br><br>
   
-  <p><strong>Backend, IoT & Workflow</strong></p>
+  <p><strong>Backend, Systems & Workflow</strong></p>
   <img src="https://skillicons.dev/icons?i=py,cpp,c,nodejs,express,mongodb,supabase,arduino,git,github,vscode,netlify&perline=12&theme=dark" alt="Backend, IoT, and Tools"/>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
-
-*Aktivitas dan kontribusi saya di GitHub:*
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=tokyonight&bg_color=00000000&hide_border=true" width="48%" alt="Top Languages"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hilmybaihaqii&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=tokyonight&background=00000000&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&icon_color=3B82F6" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6" width="48%" alt="Top Languages"/>
 </div>
 
 <br>
 
-<!-- Animasi Ular (Hanya akan muncul jika GitHub Actions sudah disetup) -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=a6a6a6" alt="Streak Stats"/>
 </div>
 
 ---
 <div align="center">
-  <em>"Keep learning, keep building, and never stop exploring."</em>
+  <em>"Curiosity drives creation — I learn, build, and share."</em>
 </div>
