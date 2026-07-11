@@ -14,13 +14,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **6th-semester** Telecommunications Engineering student (International Class) at **Telkom University**.
-- 🔬 Research Assistant & Public Relations at the **Cyber Physical System (CPS) Laboratory**.
-- 🔭 Currently developing **Citra Banjir**, an early flood warning system in collaboration with BBWS Citarum.
-- ⚙️ Preparing for the **Infraship 2026** internship at **PT Telkom Infrastruktur Indonesia**, focusing on Virtualization and SDN Operation.
-- 🧠 Researching a Machine Learning-based prediction model for drug cardiotoxicity (Torsade de Pointes) using Stacking Ensemble architectures.
-- 🎨 Designed the UI/UX and handled frontend development for **MIRA**, an AI-powered educational ecosystem.
-- 🌐 Developed **AQUA** (IoT flood detection & soil monitoring) and **D'MOUV** smart home applications.
+I am an undergraduate **Telecommunications Engineering** student at **Telkom University**. 
+
+My core interests lie at the intersection of modern software development and network infrastructure. I am deeply passionate about exploring **Next-Generation Networks, Internet of Things (IoT), and Machine Learning** for predictive analysis, while also crafting intuitive digital experiences through **Frontend Engineering and UI/UX Design**.
+
+> *"Bridging the gap between complex network technologies and user-centric software design to build meaningful, scalable digital solutions."*
 
 ---
 
