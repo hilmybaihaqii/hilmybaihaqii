@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="200" alt="Developer Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif" width="200" alt="Hello Animation" />
 
   <br><br>
 
@@ -27,7 +27,7 @@ I am a software engineer and designer with a deep appreciation for building seam
 
 - 🎓 **Academics:** 6th-semester Telecommunications Engineering student at **Telkom University** (International Class).
 - 🔬 **Research & Leadership:** Serving as a Research Assistant and Public Relations at the **Cyber Physical System (CPS) Laboratory**.
-- 💻 **Focus Areas:** Specializing in **Frontend Engineering** and **UI/UX Design**, with a strong, active interest in integrating **Machine Learning** and **Internet of Things (IoT)** into real-world applications.
+- 💻 **Focus Areas:** Specializing in **Frontend Engineering** and **UI/UX Design**, with an active interest in integrating **Machine Learning** and **Internet of Things (IoT)** into real-world applications.
 - 🌐 **Exploration:** Constantly researching next-generation network infrastructures, cloud integrations, and predictive data analysis.
 - 🏃‍♂️ **Off-Screen:** When I step away from the keyboard, I enjoy running 10k distances to maintain focus, discipline, and a clear mind.
 
@@ -36,13 +36,7 @@ I am a software engineer and designer with a deep appreciation for building seam
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <p><strong>Architecture, Frontend & Design</strong></p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma,canva&perline=9&theme=dark" alt="Frontend and Design"/>
-  
-  <br><br>
-  
-  <p><strong>Backend, Systems & Workflow</strong></p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,nodejs,express,mongodb,supabase,arduino,git,github,vscode,netlify&perline=12&theme=dark" alt="Backend, IoT, and Tools"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,html,css,react,nextjs,tailwind,nodejs,express,mongodb,supabase,git,github,figma,arduino,vscode,netlify&perline=10&theme=dark" alt="Tech Stack"/>
 </div>
 
 ---
