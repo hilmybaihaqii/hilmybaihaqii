@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif" width="140" alt="Pikachu Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtibGo5eHk3YzdkdnB4bWprOW43ZGU0anV4MzdjNDN6dHVwdHcycSZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/Cmr1OMJ2FN0B2/giphy.gif" width="140" alt="Hello Animation" />
   
   <br>
 
@@ -57,25 +57,25 @@
 <br>
 
 <div align="center">
-  <!-- GitHub Trophies -->
+  <!-- GitHub Trophies (Optimized for faster loading) -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hilmybaihaqii&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hilmybaihaqii&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&icon_color=3B82F6" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6" width="48%" alt="Top Languages"/>
+  <!-- Stats & Top Languages (Cache Busted) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hilmybaihaqii&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&icon_color=3B82F6&cache_seconds=1800&v=2.0" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hilmybaihaqii&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=a6a6a6&cache_seconds=1800&v=2.0" width="48%" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=a6a6a6" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hilmybaihaqii&theme=transparent&hide_border=true&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=a6a6a6&v=2.0" alt="Streak Stats"/>
 </div>
 
 <br>
