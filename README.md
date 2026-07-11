@@ -44,6 +44,16 @@ My core interests lie at the intersection of modern software development and net
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=hilmybaihaqii&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Hilmy's Trophies" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -65,4 +75,14 @@ My core interests lie at the intersection of modern software development and net
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hilmybaihaqii/hilmybaihaqii/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
+</p>
+
+---
+
+### 🎧 Now Playing on Spotify
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=radical&show_offline=true&background_color=0D1117&interchange=true" alt="Spotify Now Playing" />
+  </a>
 </p>
